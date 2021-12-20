@@ -11,5 +11,5 @@
 >> 기존 폴더를 지우면 안됩니다!! 개인 폴더 내부만 수정해주세요 :)
 
 ✅ 참여자
-안창혁[https://github.com/Hyeok95]
-장승범[https://github.com/JSB1010]
+* 안창혁(https://github.com/Hyeok95)
+* 장승범(https://github.com/JSB1010)
