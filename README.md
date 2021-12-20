@@ -30,10 +30,3 @@
 
 <br />
 <br />
-
-## ✅ 참여자 진행도
-- 안창혁: ![progress](https://us-central1-progress-markdown.cloudfunctions.net/progress/1)
-- 장승범: ![progress](https://us-central1-progress-markdown.cloudfunctions.net/progress/1)
-
-<br />
-<br />
