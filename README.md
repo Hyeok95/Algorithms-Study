@@ -2,7 +2,7 @@
 
 💗 1일 1알고리즘 - 기초부터 심화까지 정복! 💗
 
-## ✅ 참여 방법
+### ✅ 방법
 1. 이 저장소를 fork 한다.
 2. 생성된 원격 저장소에 이름으로 폴더를 생성한다.
 3. 생성된 폴더에 자신의 소스코드를 업로드 한다.
@@ -13,13 +13,27 @@
 <br />
 <br />
 
-## ✅ 참여자
+### ✅ 규칙
+1. 하루에 문제 하나씩 풀기!(1주일 5문제)
+2. 개인폴더 안에 있는 양식은 자유!
+
+<br />
+<br />
+
+### ✅ 참여자
 <table>
   <tr>
     <td align="center"><a href="https://github.com/JSB1010"><img src="https://avatars.githubusercontent.com/u/78522684?s=400&u=53dff2ad4825bca5f4db84a63d3be8af5372f66d&v=4" width="100px;" alt=""/><br /><sub><b>안창혁</b></sub></a><br /></td>
     <td align="center"><a href="https://github.com/Hyeok95"><img src="https://avatars.githubusercontent.com/u/93919347?v=4" width="100px;" alt=""/><br /><sub><b>장승범</b></sub></a><br /></td>
   <tr>
 </table>
+
+<br />
+<br />
+
+## ✅ 참여자 진행도
+- 안창혁: ![progress](https://us-central1-progress-markdown.cloudfunctions.net/progress/1)
+- 장승범: ![progress](https://us-central1-progress-markdown.cloudfunctions.net/progress/1)
 
 <br />
 <br />
