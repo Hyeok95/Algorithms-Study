@@ -29,9 +29,13 @@
 
 <br />
 <br />
+
 ### ✅ 활동사항
 
 * 프로그래머스(https://programmers.co.kr/learn/challenges)
   * 12/20 ~ 12/27
     * LV 1 5문제 풀기
+
+<br />
+<br />
 
