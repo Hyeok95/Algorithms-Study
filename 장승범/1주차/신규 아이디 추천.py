@@ -16,7 +16,7 @@ def solution(new_id):
     
     if mod_id[0] == '.': # 필터 4
         mod_id = mod_id[1:] if len(mod_id) > 1 else '.'
-        
+
     if mod_id[-1] == '.':
         mod_id = mod_id[:-1]
     
@@ -32,6 +32,4 @@ def solution(new_id):
         mod_id += mod_id[-1]
 
     return mod_id
-
-print(solution(input()))
 
