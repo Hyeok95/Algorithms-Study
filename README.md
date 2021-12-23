@@ -23,13 +23,13 @@
 <table>
   <tr>
     <td align="center">
-      <a href="https://github.com/JSB1010">
+      <a href="https://github.com/Hyeok95">
         <img src="https://avatars.githubusercontent.com/u/78522684?s=400&u=53dff2ad4825bca5f4db84a63d3be8af5372f66d&v=4" width="100px;" alt=""/><br />
           <sub><b>안창혁</b></sub>
       </a><br />
     </td>
     <td align="center">
-      <a href="https://github.com/Hyeok95">
+      <a href="https://github.com/seungbeom1010">
         <img src="https://avatars.githubusercontent.com/u/93919347?v=4" width="100px;" alt=""/><br />
           <sub><b>장승범</b></sub>
       </a><br />
