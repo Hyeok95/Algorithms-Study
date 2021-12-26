@@ -1,14 +1,13 @@
 def solution(n, lost, reserve):
 
-    lost.sort()
+    mod_lost = list(set(lost) - set(reserve))
+    mod_reserve = list(set(reserve) - set(lost))
     
-    for i in lost:
-        if i in reserve:
-            reserve.remove(i)
-        elif i - 1 in reserve and i - 1 not in lost:
-            reserve.remove(i - 1)
-        elif i + 1 in reserve and i + 1 not in lost:
-            reserve.remove(i + 1)
+    for i in mod_lost:
+        if i - 1 in mod_reserve:
+            mod_reserve.remove(i - 1)
+        elif i + 1 in mod_reserve:
+            mod_reserve.remove(i + 1)
         else:
             n -= 1
     
