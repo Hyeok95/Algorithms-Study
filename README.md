@@ -35,7 +35,7 @@
       </a><br />
     </td>
     <td align="center">
-      <a href="https://github.com/yooseung200">
+      <a href="https://github.com/yooseung20">
         <img src="https://avatars.githubusercontent.com/u/93904773?v=4" width="100px;" alt=""/><br />
           <sub><b>유승아</b></sub>
       </a><br />
