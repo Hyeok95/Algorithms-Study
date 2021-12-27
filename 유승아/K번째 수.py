@@ -6,6 +6,5 @@ def solution(array, commands):
         temp = array[i-1:j]
         temp.sort()
         answer.append(temp[k-1])        
-        
-    
+          
     return answer
