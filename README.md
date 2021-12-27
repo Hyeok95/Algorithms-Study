@@ -34,6 +34,17 @@
           <sub><b>장승범</b></sub>
       </a><br />
     </td>
+    <td align="center">
+      <a href="https://github.com/yooseung200">
+        <img src="https://avatars.githubusercontent.com/u/93904773?v=4" width="100px;" alt=""/><br />
+          <sub><b>유승아</b></sub>
+      </a><br />
+    </td>
+    <td align="center">
+      <a href="https://github.com/alswnsghd1234">
+        <img src="https://avatars.githubusercontent.com/u/93077011?v=4" width="100px;" alt=""/><br />
+          <sub><b>민준홍</b></sub>
+      </a><br />
   <tr>
 </table>
 
@@ -43,7 +54,9 @@
 ### ✅ 활동사항
 
 * 프로그래머스(https://programmers.co.kr/learn/challenges)
-  * 12/20 ~ 12/27
+  * 12/20 ~ 12/26
+    * LV 1 5문제 풀기
+  * 12/27 ~ 1/2
     * LV 1 5문제 풀기
 
 <br />
