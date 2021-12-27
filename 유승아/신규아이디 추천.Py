@@ -25,4 +25,4 @@ def solution(new_id):
     # 7단계
     if len(answer) <= 3:
         answer += answer[-1] * (3-len(answer))
-    return answer
+    return  answer
