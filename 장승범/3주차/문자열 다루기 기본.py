@@ -1,3 +1,14 @@
+'''
+
+def solution(s):
+    
+    return s.isdigit() and len(s) in (4, 6)
+
+
+'''
+
+
+
 import re
 
 def solution(s):
@@ -10,3 +21,7 @@ def solution(s):
         return False
     else:
         return True
+
+
+
+        
